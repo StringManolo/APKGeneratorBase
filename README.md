@@ -1,2 +1,3 @@
-# APKGeneratorBase
-APKGenerator is a cli tool to build apks on termux.
+#Apk gen for web Developers
+
+Icon created using https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
